@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/hieu/static/css/main.5f361e03.chunk.css",
+    "main.js": "/hieu/static/js/main.e6a4b365.chunk.js",
+    "main.js.map": "/hieu/static/js/main.e6a4b365.chunk.js.map",
+    "runtime-main.js": "/hieu/static/js/runtime-main.533996a0.js",
+    "runtime-main.js.map": "/hieu/static/js/runtime-main.533996a0.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/hieu/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.5439b528.chunk.js": "/hieu/static/js/2.5439b528.chunk.js",
+    "static/js/2.5439b528.chunk.js.map": "/hieu/static/js/2.5439b528.chunk.js.map",
+    "index.html": "/hieu/index.html",
+    "precache-manifest.52c2ba88f1a48e0c38133bc7f1aee4b4.js": "/hieu/precache-manifest.52c2ba88f1a48e0c38133bc7f1aee4b4.js",
+    "service-worker.js": "/hieu/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/hieu/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/hieu/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5439b528.chunk.js.LICENSE.txt": "/hieu/static/js/2.5439b528.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.533996a0.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.5439b528.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.e6a4b365.chunk.js"
+  ]
+}
